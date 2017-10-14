@@ -14,14 +14,14 @@
 ### How to use it?
 
 First install npm packges
-```shell
+```bash
 npm install
 #or
 yarn
 ```
 
 After this, you can run localy or build an exportable version
-```
+```bash
 # run localy
 npm start
 
