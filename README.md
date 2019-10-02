@@ -36,3 +36,5 @@ npm run package-mac
 npm run package-win
 ```
 
+Enjoy!
+
